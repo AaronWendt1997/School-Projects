@@ -13,9 +13,9 @@ Using the abstract syntax tree, perform semantic analysis to check for undeclare
   -this can be seen in the nameanalysis methods of ast.java
   
 ## Step 4
-Using the abstract syntax tree, perform type checking on all variables assignments.
+Using the abstract syntax tree, perform type checking on all variables assignments.  
   -this can be seen in the typecheck methods of ast.java
   
 ## Step 5
-Convert the code to mips assembly language
+Convert the code to mips assembly language.  
   -this can be seen in the codegen methods of ast.java
